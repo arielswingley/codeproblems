@@ -1,9 +1,9 @@
-package com.company.codingproblems;
+package com.company.codingproblems.structures;
 
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
 
     public TreeNode(int _val){
         this.val = _val;
